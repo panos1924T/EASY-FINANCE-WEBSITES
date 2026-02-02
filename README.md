@@ -16,27 +16,29 @@ Unlike dynamic sites (WordPress), these static implementations ensure:
 Below is a list of deployed projects utilizing this architecture. 
 *Note: The source code for individual clients remains **Private (Proprietary)** to protect client intellectual property and data.*
 
-Damigos-diakosmitiki |  https://damigos-ike.netlify.app/
-DK-Cleaning |  https://dkcleaning.netlify.app/
-D-Melia |  https://dmelia-epe.netlify.app/
-Easy-Finance |  https://easyfinance-ike.netlify.app/
-FF-Young |  https://ff-young-ike.netlify.app/
-Gess |  https://gess-ike.netlify.app/
-IQ-Female |  https://iqfemale.netlify.app/
-Kalymnos Tech |  https://kalymnostech-ike.netlify.app/
-Kamperi-Dimitra |  https://kamperi-ike.netlify.app/
-Michaels-Real-Estate |  https://michaelsrealestate.netlify.app/
-Moda-Wood-Expert |  https://modusexpert.netlify.app/
-Modus-Wood-Home-Hotel |  https://modushomehotel.netlify.app/
-Nikolis-Xromata |  https://nikolis-xrwmata-ike.netlify.app/
-Peiraiko-Kiroplasteio |  https://peiraiko-ike.netlify.app/
-Pose-Advertising |  https://pose-adv-ike.netlify.app/
-Rodi-Eidikes-Therapies |  https://rodi-ike.netlify.app/
-S4all-Bright-Solutions |  https://s4all-ike.netlify.app/
-Singular-Wax |  https://singularwax-ike.netlify.app/
-Star-Taxi |  https://startaxi-ike.netlify.app/
-Tahiti |
-Ivalena | 
+| Client / Project Name | Live Demo | Status |
+| :--- | :--- | :--- |
+| **Damigos Diakosmitiki** | [Visit Site ↗](https://damigos-ike.netlify.app/) | 🟢 Live |
+| **DK Cleaning** | [Visit Site ↗](https://dkcleaning.netlify.app/) | 🟢 Live |
+| **D-Melia** | [Visit Site ↗](https://dmelia-epe.netlify.app/) | 🟢 Live |
+| **Easy Finance** | [Visit Site ↗](https://easyfinance-ike.netlify.app/) | 🟢 Live |
+| **FF Young** | [Visit Site ↗](https://ff-young-ike.netlify.app/) | 🟢 Live |
+| **Gess** | [Visit Site ↗](https://gess-ike.netlify.app/) | 🟢 Live |
+| **IQ Female** | [Visit Site ↗](https://iqfemale.netlify.app/) | 🟢 Live |
+| **Kalymnos Tech** | [Visit Site ↗](https://kalymnostech-ike.netlify.app/) | 🟢 Live |
+| **Kamperi Dimitra** | [Visit Site ↗](https://kamperi-ike.netlify.app/) | 🟢 Live |
+| **Michaels Real Estate** | [Visit Site ↗](https://michaelsrealestate.netlify.app/) | 🟢 Live |
+| **Moda Wood Expert** | [Visit Site ↗](https://modusexpert.netlify.app/) | 🟢 Live |
+| **Modus Wood Home Hotel** | [Visit Site ↗](https://modushomehotel.netlify.app/) | 🟢 Live |
+| **Nikolis Xromata** | [Visit Site ↗](https://nikolis-xrwmata-ike.netlify.app/) | 🟢 Live |
+| **Peiraiko Kiroplasteio** | [Visit Site ↗](https://peiraiko-ike.netlify.app/) | 🟢 Live |
+| **Pose Advertising** | [Visit Site ↗](https://pose-adv-ike.netlify.app/) | 🟢 Live |
+| **Rodi Eidikes Therapies** | [Visit Site ↗](https://rodi-ike.netlify.app/) | 🟢 Live |
+| **S4all Bright Solutions** | [Visit Site ↗](https://s4all-ike.netlify.app/) | 🟢 Live |
+| **Singular Wax** | [Visit Site ↗](https://singularwax-ike.netlify.app/) | 🟢 Live |
+| **Star Taxi** | [Visit Site ↗](https://startaxi-ike.netlify.app/) | 🟢 Live |
+| **Tahiti** | *Pending Link* | 🟡 In Progress |
+| **Ivalena** | *Pending Link* | 🟡 In Progress |
 
 
 ---
